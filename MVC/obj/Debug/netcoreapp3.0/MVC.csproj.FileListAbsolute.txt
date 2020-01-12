@@ -145,3 +145,4 @@ E:\SolucionAzureApiNetCore3\SolucionMVCAzure\MVC\obj\Debug\netcoreapp3.0\MVC.Vie
 E:\SolucionAzureApiNetCore3\SolucionMVCAzure\MVC\obj\Debug\netcoreapp3.0\MVC.csproj.CopyComplete
 E:\SolucionAzureApiNetCore3\SolucionMVCAzure\MVC\obj\Debug\netcoreapp3.0\MVC.dll
 E:\SolucionAzureApiNetCore3\SolucionMVCAzure\MVC\obj\Debug\netcoreapp3.0\MVC.pdb
+E:\SolucionAzureApiNetCore3\SolucionMVCAzure\MVC\obj\Debug\netcoreapp3.0\MVC.csprojAssemblyReference.cache
